@@ -1,4 +1,5 @@
-# WeatherApp-Mahool
+# WeatherApp-Maahaul
+## माहौल
 Weather App using OpenWeatherMap API &amp; SwiftUI 
 
 
